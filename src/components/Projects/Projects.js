@@ -44,7 +44,7 @@ function Projects() {
               isBlog={false}
               title="Personal Portfolio"
               description="A personal portfolio built using React.js is a dynamic, responsive web application showcasing an individual's skills, projects, and experiences. It leverages React's component-based architecture for smooth navigation, interactive features, and seamless content updates, offering an engaging way to present a developer's professional profile."
-              ghLink="https://gi thub.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/garghitesh1905/Portfolio"
             />
           </Col>
         </Row>
